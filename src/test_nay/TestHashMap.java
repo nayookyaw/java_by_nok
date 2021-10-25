@@ -11,6 +11,6 @@ public class TestHashMap {
 		carList.put("model", 1992);
 		carList.put("used_year", 1992);
 		
-		System.out.println(carList);
+		System.out.println(carList.entrySet());
 	}
 }
