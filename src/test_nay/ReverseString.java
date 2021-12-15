@@ -29,6 +29,7 @@ public class ReverseString {
 		for (int j = input_str_arr.length - 1; j >=0 ; j--) {
 			out_str += input_str_arr[j];
 		}
+		
 		System.out.println(out_str);
 	}
 }

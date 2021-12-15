@@ -16,9 +16,15 @@
 
 		Algorithm
 
-13.	BinarySearchNay.java
+1.	BinarySearchNay.java
 
 
 		Short Program
 
-14. ReverseString.java
+1. ReverseString.java
+2. CountSameWordsInString.java
+3. IteratorArrayListAndMap.java
+4. FindPrimeNumber.java
+5. FibonacciTest.java
+6. FindDuplicateChar.java
+7. SecondHighestNumber.java
